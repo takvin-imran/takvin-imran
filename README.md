@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Takvir Imran
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on interesting project.
+- 📫 How to reach me takvir.imran.cse@gmail.com
