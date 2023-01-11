@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Takvir Imran
+<h2>  Hi 👋 , I’m Takvir Imran </h2>
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on interesting project.
